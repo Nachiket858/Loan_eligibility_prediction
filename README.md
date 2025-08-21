@@ -1,5 +1,3 @@
-Got it 👍 You want a **cleaner README** without the long performance report.
-Here’s the updated **README.md**:
 
 ---
 
